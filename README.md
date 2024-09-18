@@ -2,6 +2,7 @@
 
 This project demonstrates object detection using the YOLOv8 model with video annotation, utilizing `supervision` for tracking and labeling, and `opencv` for video processing.
 
+![Video](./Annotated.mp4)
 ## Installation
 
 1. Clone the repository:
